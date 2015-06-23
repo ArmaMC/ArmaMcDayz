@@ -1,7 +1,2 @@
-# Arma MC - DayZ
-Welcome to the Arma MC Github. Currently in the works setting it up but if you would like to contribute to the language files you can. If you contribute to the development you will be credited down below.
-
-# Contributers
-xchow
-Phil_Man
-
+# Arma MC - Downloads
+Welcome to the download section for Arma MC if you were looking to contribute click the ArmaMC button and then click on the repository that your wanting to contribute to
